@@ -1,0 +1,9 @@
+/* line 1, ../sass/module/_navbar.scss */
+.nav {
+  float: right !important;
+}
+
+/* line 1, ../sass/module/_about.scss */
+.container {
+  padding: 50px 0px;
+}
