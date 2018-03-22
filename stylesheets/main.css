@@ -7,3 +7,10 @@
 .container {
   padding: 50px 0px;
 }
+
+/* line 1, ../sass/module/_footer.scss */
+.footer {
+  background-color: #111535;
+  padding: 10px 0px 0px 0px;
+  color: white;
+}
